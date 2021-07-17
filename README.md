@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @reelmza
+- 👋 Hi, I’m Jesse!
 - 👀 I’m interested in javascript/UI Design
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me - @reelmza twitter
+- 📫 Reach me on twitter - @reelmza
 
 <!---
 reelmza/reelmza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
